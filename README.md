@@ -1,2 +1,2 @@
-# Senior_Design_Project_AU
+# Tübitak Projesi
 MERN Project 
